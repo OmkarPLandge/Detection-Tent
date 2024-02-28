@@ -21,7 +21,7 @@ This project requires the following libraries to run the entire process:
 • shapely
 
 These libraries are necessary for running the provided trained model and prediction code on any imagery. Additionally, ensure that you have the input imagery available. You will need to provide an output path for the predictions. Usage Clone the repository to your local machine. <br>
-<a href=https://drive.google.com/file/d/1oCfnSy04IIuvMcTS_vwQgEEs-O2G4m7M/view?usp=drive_link> Model Link </a>
+<a href="https://drive.google.com/file/d/1oCfnSy04IIuvMcTS_vwQgEEs-O2G4m7M/view?usp=drive_link" target="_blank">Model Link</a>
 
 Install the required dependencies using pip:
 pip install -r requirements.txt
