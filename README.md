@@ -22,7 +22,8 @@ This project requires the following libraries to run the entire process:
 
 These libraries are necessary for running the provided trained model and prediction code on any imagery. Additionally, ensure that you have the input imagery available. You will need to provide an output path for the predictions. Usage
 
-Clone the repository to your local machine.
+Clone the repository to your local machine. <br>
+ Model Link - <href> https://drive.google.com/file/d/1oCfnSy04IIuvMcTS_vwQgEEs-O2G4m7M/view?usp=drive_link </href>
 
 Install the required dependencies using pip:
 pip install -r requirements.txt
