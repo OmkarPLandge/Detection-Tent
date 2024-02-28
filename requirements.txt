@@ -1,0 +1,9 @@
+numpy
+tensorflow
+matplotlib
+Pillow
+imagecodecs
+tifffile
+rasterio
+geopandas
+shapely
